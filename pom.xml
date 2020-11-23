@@ -15,9 +15,12 @@
 	<name>question-answer-project</name>
 	<description>project for Spring Boot</description>
 
-	<properties>
+<!-- 
+<properties>
 		<java.version>11</java.version>
 	</properties>
+ -->
+	
 
 	<dependencies>
 		<dependency>
